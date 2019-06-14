@@ -66,6 +66,11 @@ header.masthead h1 {
   }
 }
 
+.text-centered {
+  padding-top: 18rem;
+  padding-bottom: 18rem;
+}
+
 .features-icons {
   padding-top: 7rem;
   padding-bottom: 7rem;
