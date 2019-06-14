@@ -41,15 +41,6 @@ header.masthead h1 {
   font-size: 2rem;
 }
 
-pretty-image {
-  position: relative;
-  background-color: #343a40;
-  background: url("../img/pi-1.jpg") no-repeat center center;
-  background-size: cover;
-  padding-top: 8rem;
-  padding-bottom: 8rem;
-}
-
 @media (min-width: 768px) {
   header.masthead {
     padding-top: 12rem;
@@ -97,8 +88,8 @@ pretty-image {
 }
 
 .centered-text {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 18rem;
+  padding-bottom: 18rem;
 }
 
 .testimonials {
