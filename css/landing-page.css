@@ -40,6 +40,7 @@ header.masthead .overlay {
 
 header.masthead h1 {
   font-size: 2rem;
+  background-position: bottom;
 }
 
 @media (min-width: 768px) {
@@ -53,7 +54,7 @@ header.masthead h1 {
 }
 
 .showcase .showcase-text {
-  padding: 3rem;
+  padding: 1rem;
 }
 
 .showcase .showcase-img {
@@ -63,7 +64,7 @@ header.masthead h1 {
 
 @media (min-width: 768px) {
   .showcase .showcase-text {
-    padding: 7rem;
+    padding: 1rem;
   }
 }
 
